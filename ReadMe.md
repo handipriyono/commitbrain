@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <img src="https://github.com/handipriyono/commitIQ/blob/main/.github/commitbrain-ss2.png?raw=true" alt="Commit IQ"/>
+    <img src="https://github.com/handipriyono/commitbrain/blob/main/.github/commitbrain-1.png?raw=true" alt="Commitbrain"/>
     <h1 align="center">Commit IQ</h1>
   </div>
  <a href="https://www.npmjs.com/package/commitbrain"><img src="https://img.shields.io/npm/v/commitbrain" alt="Current version"></a>
@@ -117,4 +117,4 @@ If you find any bugs or issues with commitbrain, please feel free to open an iss
 
 If you'd like to contribute to commitbrain, please fork the repository and make a pull request with your changes.
 
-![Commit IQ](https://github.com/handipriyono/commitbrain/blob/main/.github/commitIQ-ss.png?raw=true "commitbrain")
+![Commit IQ](https://github.com/handipriyono/commitbrain/blob/main/.github/commitbrain-2.png?raw=true "commitbrain")

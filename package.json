@@ -1,6 +1,6 @@
 {
   "name": "commitbrain",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "commitbrain is a CLI terminal tool that utilizes chatGPT to automatically generate intelligent commit messages for GitHub repositories",
   "main": "dist/index.js",
   "type": "module",
